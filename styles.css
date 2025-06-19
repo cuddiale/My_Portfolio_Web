@@ -1,0 +1,45 @@
+body,
+html {
+  background: #eeeef4;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  cursor: default;
+}
+
+.construction-message {
+  position: absolute;
+  top: 25%;
+  width: 100%;
+}
+
+h1 {
+  color: #e43;
+  font-weight: 100;
+  font-size: 3em;
+}
+
+h2 {
+  color: #333333;
+  font-weight: 300;
+  font-size: 1.5em;
+}
+
+a {
+  font-weight: 300;
+  color: #e43;
+  text-decoration: none;
+  font-size: 1.5em;
+}
+
+span {
+  color: #e43;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  margin-left: 10px;
+}
